@@ -5,9 +5,9 @@ Log:
 DnsConfigPath: # ./dns.json Path to dns config 
 Nodes:
   -
-    PanelType: "V2board" # Panel type: SSpanel, V2board
+    PanelType: "NewV2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "https://zlxly.xyz" # 修改这里
+      ApiHost: "https://955900.xyz" # 修改这里
       ApiKey: "shdqokwjnfaosasdqsadfgqdf" # 修改这里
       NodeID: 1
       NodeType: V2ray
